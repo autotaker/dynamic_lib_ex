@@ -1,0 +1,6 @@
+.*.swp
+*.o
+*.dylib
+lib/
+include/
+src-exe/main
