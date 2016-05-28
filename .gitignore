@@ -3,4 +3,4 @@
 *.dylib
 lib/
 include/
-src-exe/main
+src-exec/main
