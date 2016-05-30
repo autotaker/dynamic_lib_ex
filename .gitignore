@@ -1,6 +1,8 @@
 .*.swp
 *.o
 *.dylib
+*.a
 lib/
 include/
 src-exec/main
+src-exec/main.static
